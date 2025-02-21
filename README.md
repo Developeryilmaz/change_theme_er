@@ -15,7 +15,7 @@ readme_content = """# 🌓 change_theme_er - Animated Theme Changer for Flutter
 
 | Light Mode | Dark Mode |
 |------------|----------|
-| <img src="https://github.com/Developeryilmaz/change_theme_er/blob/main/doc/light.jpeg?raw=true" width="300"> <br><br> | <br><br> <img src="https://github.com/Developeryilmaz/change_theme_er/blob/main/doc/dark.jpeg?raw=true" width="300"> |
+| <img src="https://github.com/Developeryilmaz/change_theme_er/blob/main/doc/light.jpeg?raw=true" width="300"> <br><br><br><br><br><br> | <br><br> <br><br><br><br> <img src="https://github.com/Developeryilmaz/change_theme_er/blob/main/doc/dark.jpeg?raw=true" width="300"> |
 
 <!-- 🎥 **[Watch the Demo Video](https://youtu.be/demo_video_link)** -->
 
