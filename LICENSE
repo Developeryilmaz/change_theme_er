@@ -1,42 +1,15 @@
-# 📜 LICENSE AGREEMENT
+MIT License
 
-## ** Pharrax Software - YILMAZ ER **
-🔒 **Copyright (c) 2024**
+Copyright (c) 2024 Pharrax Software - YILMAZ ER
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+and associated documentation files (the "Software"), to deal in the Software without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
 
-## **📌 License Summary**
-This software is proprietary and confidential.  
-By downloading, installing, or using this software, you agree to the following terms:
-
-✔ **Permitted Use**  
-✅ You may use this software for **personal and commercial projects**.  
-✅ You may modify the code for your own applications.  
-
-❌ **Restricted Use**  
-🚫 Redistribution, resale, sublicensing, or commercial distribution is **strictly prohibited**.  
-🚫 Reverse engineering, decompiling, or disassembling the software is **not allowed**.  
-🚫 Claiming ownership or falsely representing this software as your own is **illegal**.  
-
----
-
-## **📌 License Conditions**
-1️⃣ **Ownership**  
-- This software is owned by **Pharrax Software - YILMAZ ER** and is protected under intellectual property laws.
-
-2️⃣ **Liability Disclaimer**  
-- This software is provided "as is", without any express or implied warranties.  
-- Pharrax Software shall not be liable for any damages resulting from the use or misuse of this software.  
-
-3️⃣ **Termination**  
-- Violation of any terms will result in immediate termination of this license.  
-- Continued use after termination may result in legal action.
-
----
-
-## 📩 **Contact & Support**
-For any licensing inquiries, please contact:  
-📧 **Email:** [yilmazer@pharraxsoftware.com](mailto:yilmazer@pharraxsoftware.com)  
-🌐 **Website:** [www.pharraxsoftware.com](https://www.pharraxsoftware.com)  
-
-**Thank you for using Pharrax Software products! 🚀**  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

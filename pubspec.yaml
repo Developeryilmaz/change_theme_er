@@ -28,3 +28,5 @@ dev_dependencies:
 platforms:
   android:
   ios:
+
+license: MIT
