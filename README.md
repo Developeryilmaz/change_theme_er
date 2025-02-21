@@ -1,4 +1,5 @@
 # 🌓  change_theme_er - Animated Theme Changer for Flutter
+# 🌓 change_theme_er - Animated Theme Changer for Flutter  
 [![GitHub Repo stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
 [![Pub Version](https://img.shields.io/pub/v/change_theme_er)](https://pub.dev/packages/change_theme_er)
 [![GitHub issues](https://img.shields.io/github/issues/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues)
@@ -19,6 +20,14 @@
 [![GitHub Watchers](https://img.shields.io/github/watchers/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Developeryilmaz)](https://github.com/sponsors/Developeryilmaz)
 [![GitHub Repo Views](https://komarev.com/ghpvc/?username=Developeryilmaz&color=blue)](https://github.com/Developeryilmaz/change_theme_er)
+[![GitHub Stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?label=Stars&style=plastic)](https://github.com/Developeryilmaz/change_theme_er/stargazers)
+[![GitHub Followers](https://img.shields.io/github/followers/Developeryilmaz?style=social)](https://github.com/Developeryilmaz)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Developeryilmaz?style=plastic)](https://github.com/sponsors/Developeryilmaz)
+[![GitHub Contributions](https://img.shields.io/github/contributors-anon/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/graphs/contributors)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Developeryilmaz?style=social)](https://twitter.com/Developeryilmaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Developeryilmaz-blue?logo=linkedin)](https://www.linkedin.com/in/Developeryilmaz)
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/Developeryilmaz?label=Reddit)](https://www.reddit.com/user/Developeryilmaz)
+[![Twitch Status](https://img.shields.io/twitch/status/Developeryilmaz?style=social)](https://www.twitch.tv/Developeryilmaz)
 🚀 **A high-performance, customizable theme changer package for Flutter.**  
 🌟 **Smooth transitions, Bloc-powered state management, and GetIt dependency injection.**
 
