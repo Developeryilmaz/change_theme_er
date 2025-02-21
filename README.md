@@ -174,6 +174,5 @@ If you like this package, please **give it a ⭐ on GitHub** and **[like it on p
 ## Provide download link
 https://github.com/Developeryilmaz/change_theme_er
 
-
 ## Languages Used
-![Dil Dağılımı](https://github.com/Developeryilmaz/main/raw/main/doc/language.png)
+![Language Breakdown](https://github.com/Developeryilmaz/change_theme_er/blob/main/doc/language.png?raw=true)
