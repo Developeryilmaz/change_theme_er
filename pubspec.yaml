@@ -3,6 +3,7 @@ description: "A high-performance, clean-code theme changer package using Hive, G
 version: 0.0.3
 homepage: https://github.com/Developeryilmaz/change_theme_er
 issue_tracker: https://github.com/Developeryilmaz/change_theme_er/issues
+license: MIT
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -28,5 +29,3 @@ dev_dependencies:
 platforms:
   android:
   ios:
-
-license: MIT
