@@ -1,6 +1,6 @@
 # Recreate the README.md file since the execution state was reset
 
-readme_content = """# 🌓 change_theme_er - Animated Theme Changer for Flutter
+"""# 🌓 change_theme_er - Animated Theme Changer for Flutter
 [![GitHub Repo stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
 [![Pub Version](https://img.shields.io/pub/v/change_theme_er)](https://pub.dev/packages/change_theme_er)
 [![GitHub issues](https://img.shields.io/github/issues/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues)
