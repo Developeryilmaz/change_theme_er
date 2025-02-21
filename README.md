@@ -29,6 +29,8 @@
 [![Twitch Status](https://img.shields.io/twitch/status/Developeryilmaz?style=social)](https://www.twitch.tv/Developeryilmaz)
 
 
+---
+
 ## 🚀 **A high-performance, customizable theme changer package for Flutter.**  
 🌟 **Smooth transitions, Bloc-powered state management, and GetIt dependency injection.**
 
