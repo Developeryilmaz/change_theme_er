@@ -1,13 +1,12 @@
 # 🌓  change_theme_er - Animated Theme Changer for Flutter
-
 [![GitHub Repo stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
 [![Pub Version](https://img.shields.io/pub/v/change_theme_er)](https://pub.dev/packages/change_theme_er)
 [![GitHub issues](https://img.shields.io/github/issues/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues)
-[![License](https://img.shields.io/github/license/Developeryilmaz/change_theme_er)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/Developeryilmaz/change_theme_er)](LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/network/members)
-[![Open PRs](https://img.shields.io/github/issues-pr/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/pulls)
 [![Last Commit](https://img.shields.io/github/last-commit/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
+[![Open PRs](https://img.shields.io/github/issues-pr/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/pulls)
 
 🚀 **A high-performance, customizable theme changer package for Flutter.**  
 🌟 **Smooth transitions, Bloc-powered state management, and GetIt dependency injection.**
