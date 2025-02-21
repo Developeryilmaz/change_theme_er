@@ -1,39 +1,155 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Recreate the README.md file since the execution state was reset
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+readme_content = """# 🌓 change_theme_er - Animated Theme Changer for Flutter
+[![GitHub Repo stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
+[![Pub Version](https://img.shields.io/pub/v/change_theme_er)](https://pub.dev/packages/change_theme_er)
+[![GitHub issues](https://img.shields.io/github/issues/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues)
+[![License](https://img.shields.io/github/license/Developeryilmaz/change_theme_er)](LICENSE)
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+🚀 **A high-performance, customizable theme changer package for Flutter.**  
+🌟 **Smooth transitions, Bloc-powered state management, and GetIt dependency injection.**
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+---
 
-## Features
+## 📌 **📸 Demo & Screenshots**
+| Light Mode | Dark Mode |
+|------------|----------|
+| <img src="https://github.com/Developeryilmaz/change_theme_er/blob/main/doc/dark.jpeg?raw=true" width="300"> | <img src="hhttps://github.com/Developeryilmaz/change_theme_er/blob/main/doc/light.jpeg?raw=true" width="300"> |
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+🎥 **[Watch the Demo Video](https://youtu.be/demo_video_link)**
 
-## Getting started
+---
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## 🌟 **Features**
+✔ **Smooth theme transitions with animation**  
+✔ **Bloc-powered for optimized performance**  
+✔ **GetIt for dependency management**  
+✔ **Hive for instant theme persistence**  
+✔ **Supports Light/Dark mode with smooth transitions**  
+✔ **Highly customizable UI**  
 
-## Usage
+---
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
+## 📌 **Installation**
+```yaml
+dependencies:
+  change_theme_er: latest_version
+```
+Then run:
+```sh
+flutter pub get
 ```
 
-## Additional information
+---
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+## 📌 **Usage**
+### **1️⃣ Initialize Dependencies**
+```dart
+import 'package:change_theme_er/change_theme_er.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await setupLocator();
+}
+```
+
+### **2️⃣ Use Bloc for Theme Management**
+```dart
+BlocProvider(
+  create: (context) => sl<ThemeBloc>()..add(LoadTheme()),
+  child: MyApp(),
+);
+```
+
+### **3️⃣ Animated Theme Switch Button**
+```dart
+GestureDetector(
+  onTap: () {
+    context.read<ThemeBloc>().add(ToggleTheme());
+  },
+  child: CustomSwitchButton(),
+);
+```
+
+---
+
+## 📌 **API Reference**
+| Method | Description |
+|--------|------------|
+| `setupLocator()` | Initializes Hive and GetIt dependencies |
+| `ThemeBloc` | Manages theme state using Bloc |
+| `ToggleTheme()` | Toggles between Light and Dark mode |
+
+---
+
+## 📌 **File Structure**
+The `change_theme_er` package follows a **Clean Code architecture**:
+```
+change_theme_er/
+│── lib/
+│   │── change_theme_er.dart
+│   ├── src/
+│   │   ├── core/
+│   │   │   ├── di/
+│   │   │   │   └── service_locator.dart
+│   │   │   ├── theme_repository.dart
+│   │   ├── presentation/
+│   │   │   ├── bloc/
+│   │   │   │   ├── theme_bloc.dart
+│   │   │   │   ├── theme_event.dart
+│   │   │   │   ├── theme_state.dart
+│── example/
+│   │── lib/main.dart
+│── pubspec.yaml
+│── README.md
+│── CHANGELOG.md
+│── LICENSE
+```
+
+---
+
+## 📌 **How It Works**
+The package **uses Bloc for state management** and **Hive for persistent storage**.  
+Here’s how the theme switching works under the hood:
+
+1️⃣ **User taps the switch button.**  
+2️⃣ **Bloc event `ToggleTheme()` is triggered.**  
+3️⃣ **Bloc updates the state (`Light Mode ↔ Dark Mode`).**  
+4️⃣ **Hive saves the user's theme preference for future sessions.**  
+
+---
+
+## 📌 **Roadmap**
+🎯 **Upcoming Features:**  
+- [ ] **Custom Animated Transitions**  
+- [ ] **Adaptive Themes based on Time of Day**  
+- [ ] **Material You Support (Dynamic Colors)**  
+
+---
+
+## 📌 **Contribution**
+We welcome contributions!  
+
+📌 For feature requests or bug reports, [open an issue](https://github.com/Developeryilmaz/change_theme_er/issues).
+
+---
+
+## 📌 **License & Contact**
+This project is licensed under **Pharrax Software - YILMAZ ER**.  
+For licensing information, please contact:  
+📩 **Email:** [yilmazer@pharraxsoftware.com](mailto:yilmazer@pharraxsoftware.com)  
+
+---
+
+## 📌 **Support the Project**
+If you like this package, please **give it a ⭐ on GitHub** and **[like it on pub.dev](https://pub.dev/packages/change_theme_er)**!  
+🚀 **Your support helps us improve and add more features.**
+"""
+
+# Save the file
+file_path = "/mnt/data/README.md"
+with open(file_path, "w") as f:
+    f.write(readme_content)
+
+# Provide download link
+https://github.com/Developeryilmaz/change_theme_er
