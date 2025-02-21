@@ -27,7 +27,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Developeryilmaz-blue?logo=linkedin)](https://www.linkedin.com/in/Developeryilmaz)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/Developeryilmaz?label=Reddit)](https://www.reddit.com/user/Developeryilmaz)
 [![Twitch Status](https://img.shields.io/twitch/status/Developeryilmaz?style=social)](https://www.twitch.tv/Developeryilmaz)
-🚀 **A high-performance, customizable theme changer package for Flutter.**  
+
+
+## 🚀 **A high-performance, customizable theme changer package for Flutter.**  
 🌟 **Smooth transitions, Bloc-powered state management, and GetIt dependency injection.**
 
 ---
