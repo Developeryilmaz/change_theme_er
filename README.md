@@ -149,3 +149,5 @@ If you like this package, please **give it a ⭐ on GitHub** and **[like it on p
 
 # Provide download link
 https://github.com/Developeryilmaz/change_theme_er
+
+"""
