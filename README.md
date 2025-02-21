@@ -146,10 +146,6 @@ If you like this package, please **give it a ⭐ on GitHub** and **[like it on p
 🚀 **Your support helps us improve and add more features.**
 """
 
-# Save the file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
 
 # Provide download link
 https://github.com/Developeryilmaz/change_theme_er
