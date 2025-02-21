@@ -24,13 +24,9 @@
 [![GitHub Repo Views](https://komarev.com/ghpvc/?username=Developeryilmaz&color=blue)](https://github.com/Developeryilmaz/change_theme_er)
 [![GitHub Stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?label=Stars&style=plastic)](https://github.com/Developeryilmaz/change_theme_er/stargazers)
 [![GitHub Followers](https://img.shields.io/github/followers/Developeryilmaz?style=social)](https://github.com/Developeryilmaz)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Developeryilmaz?style=plastic)](https://github.com/sponsors/Developeryilmaz)
-[![GitHub Contributions](https://img.shields.io/github/contributors-anon/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/graphs/contributors)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Developeryilmaz?style=social)](https://twitter.com/Developeryilmaz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YILMAZE58?style=social)](https://x.com/YILMAZE58)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Developeryilmaz-blue?logo=linkedin)](https://www.linkedin.com/in/Developeryilmaz)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/Developeryilmaz?label=Reddit)](https://www.reddit.com/user/Developeryilmaz)
-[![Twitch Status](https://img.shields.io/twitch/status/Developeryilmaz?style=social)](https://www.twitch.tv/Developeryilmaz)
-
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/Fit-Contribution-731?label=Reddit)](https://www.reddit.com/user/Fit-Contribution-731)
 
 ---
 
