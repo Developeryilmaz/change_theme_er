@@ -1,3 +1,14 @@
+## 🛠 0.0.5 - Improvements & Bug Fixes (YYYY-MM-DD)
+
+- Implemented theme switching with Bloc.
+- Optimized performance with GetIt dependency management.
+- Persistent theme storage using Hive.
+- Supports Light & Dark modes.
+- Added custom animated switch button.
+
+---
+
+
 ## 🛠 0.0.4 - Improvements & Bug Fixes (YYYY-MM-DD)
 
 - Implemented theme switching with Bloc.
