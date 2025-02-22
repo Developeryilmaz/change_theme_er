@@ -1,34 +1,12 @@
 ## 🌓  change_theme_er - Theme Changer for Flutter
 
----
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
+--
 [![Pub Version](https://img.shields.io/pub/v/change_theme_er)](https://pub.dev/packages/change_theme_er)
-[![GitHub issues](https://img.shields.io/github/issues/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
 [![License: MIT](https://img.shields.io/github/license/Developeryilmaz/change_theme_er)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
-[![Open PRs](https://img.shields.io/github/issues-pr/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/pulls)
-[![Closed PRs](https://img.shields.io/github/issues-pr-closed/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/discussions)
-[![GitHub Releases](https://img.shields.io/github/v/release/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/releases)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
-[![GitHub Code Size](https://img.shields.io/github/languages/code-size/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
-[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er)
-[![Issues Closed](https://img.shields.io/github/issues-closed/Developeryilmaz/change_theme_er)](https://github.com/Developeryilmaz/change_theme_er/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub Watchers](https://img.shields.io/github/watchers/Developeryilmaz/change_theme_er?style=social)](https://github.com/Developeryilmaz/change_theme_er)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Developeryilmaz)](https://github.com/sponsors/Developeryilmaz)
-[![GitHub Repo Views](https://komarev.com/ghpvc/?username=Developeryilmaz&color=blue)](https://github.com/Developeryilmaz/change_theme_er)
-[![GitHub Stars](https://img.shields.io/github/stars/Developeryilmaz/change_theme_er?label=Stars&style=plastic)](https://github.com/Developeryilmaz/change_theme_er/stargazers)
-[![GitHub Followers](https://img.shields.io/github/followers/Developeryilmaz?style=social)](https://github.com/Developeryilmaz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YILMAZE58?style=social)](https://x.com/YILMAZE58)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Developeryilmaz-blue?logo=linkedin)](https://www.linkedin.com/in/Developeryilmaz)
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/Fit-Contribution-731?label=Reddit)](https://www.reddit.com/user/Fit-Contribution-731)
-
----
+--
 
 ## 🚀 **A high-performance, customizable theme changer package for Flutter.**  
 🌟 **Smooth transitions, Bloc-powered state management, and GetIt dependency injection.**
