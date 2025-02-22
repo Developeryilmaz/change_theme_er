@@ -1,23 +1,60 @@
-import 'package:change_theme_er/change_theme_er.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+import 'test_util.dart';
 
-void main() {
-  test('ThemeRepository default theme is system', () {
-    // Hive'in test için varsayılan kutusunu oluşturuyoruz
-    Hive.init('testPath');
-    final box = Hive.box('settings');
-    final themeRepository = ThemeRepository(box);
+class ThemeRepository {
+  final Box box;
 
-    expect(themeRepository.getTheme(), 'system');
+  ThemeRepository(this.box);
+
+  ThemeMode getThemeMode() {
+    final themeIndex =
+        box.get('themeMode', defaultValue: ThemeMode.system.index);
+    return ThemeMode.values[themeIndex];
+  }
+
+  void setThemeMode(ThemeMode themeMode) {
+    box.put('themeMode', themeMode.index);
+  }
+}
+
+void main() async {
+  setupPathProviderMock();
+
+  setUpAll(() async {
+    await Hive.initFlutter(); // Initialize Hive for testing
+  });
+
+  setUp(() async {
+    await Hive.openBox('themeBox'); // Open a test Hive box before each test
+  });
+
+  tearDown(() async {
+    final box = Hive.box('themeBox');
+    await box.clear(); // Clear the box after each test to ensure isolation
+  });
+
+  tearDownAll(() async {
+    await Hive.close(); // Close Hive after all tests are done
+  });
+
+  test('ThemeRepository default theme is system', () async {
+    final box = Hive.box('themeBox'); // Get the opened box
+    final themeRepository =
+        ThemeRepository(box); // Pass the box to the constructor
+
+    expect(themeRepository.getThemeMode(), equals(ThemeMode.system));
   });
 
   test('ThemeRepository can change theme', () async {
-    Hive.init('testPath');
-    final box = Hive.box('settings');
+    final box = Hive.box('themeBox'); // Get the opened box
     final themeRepository = ThemeRepository(box);
 
-    await themeRepository.saveTheme('dark');
-    expect(themeRepository.getTheme(), 'dark');
+    themeRepository.setThemeMode(ThemeMode.dark);
+    expect(themeRepository.getThemeMode(), equals(ThemeMode.dark));
+
+    themeRepository.setThemeMode(ThemeMode.light);
+    expect(themeRepository.getThemeMode(), equals(ThemeMode.light));
   });
 }

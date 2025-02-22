@@ -1,3 +1,8 @@
+## 0.0.7 - Improvements & Bug Fixes (2025-02-22)
+- Fixed a bug causing the app to crash on theme change.
+- 
+--
+
 ## 0.0.6 - Improvements & Bug Fixes (2025-02-22)
 
 - Fixed a bug causing the app to crash on theme change.
@@ -6,7 +11,7 @@
 - Improved performance of theme switching.
 - Updated dependencies to the latest versions.
 
----
+--
 
 
 ## 🛠 0.0.5 - Improvements & Bug Fixes (YYYY-MM-DD)

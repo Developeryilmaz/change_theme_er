@@ -1,8 +1,9 @@
 name: change_theme_er
 description: "A high-performance, clean-code theme changer package using Hive, GetIt, and Bloc."
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/Developeryilmaz/change_theme_er
 issue_tracker: https://github.com/Developeryilmaz/change_theme_er/issues
+documentation: https://github.com/Developeryilmaz/change_theme_er/wiki
 license: "MIT"
 
 environment:
@@ -17,6 +18,7 @@ dependencies:
   get_it: ^8.0.3
   hive: ^2.2.3
   hive_flutter: ^1.1.0
+  path_provider_platform_interface: ^2.1.2
 
 dev_dependencies:
   flutter_test:
